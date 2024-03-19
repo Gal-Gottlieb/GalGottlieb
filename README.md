@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently improving my skills in **Databricks and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Solving challenging problems by using Data**
+- 👯 I’m looking to collaborate on **solving challenging problems by using Data**
 
 - 💬 Ask me about **Data Analysis, Data Visualization, Statistical Analysis, SQL, Tableau, Python, Snowflake**
 
 - 📫 Reach me at  **galgottlieb@gmail.com**
 
-- ⚡ Interesting fact about myself, **I play Footvolley, a sport that combines aspects of beach volleyball and football**
+- ⚡ Interesting fact about myself is that **I play Footvolley, a sport that combines aspects of beach volleyball and football**
 
 
 <h3 align="left">Languages and Tools:</h3>
