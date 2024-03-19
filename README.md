@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gal</h1>
-<h3 align="center">A Data/BI Analyst from Florida, USA</h3>
+<h3 align="center">A Senior Data/BI Analyst from Florida, USA</h3>
 
 
 - 🌱 I’m currently improving my skills in **Databricks and Machine Learning**
